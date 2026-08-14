@@ -30,8 +30,7 @@
     <hr>
   <h3>
   من الآن وصاعدا، وبمجرد التوجه إلى صفحة 
-  <a href="https://eas.taibahu.edu.sa/TaibahReg/studentReplaceOptionalFreeCourses.do?ex=getCompSections" target="_blank">الجدول الزمني لمقررات الكلية</a>
-  ، ستجد الصفحة قد تحولت إلى صفحة تفاعلية، قم بإدخال المواد التي ترغب بإضافتها، ثم اضغط زر "بحث" واحصل على قائمة تفاعلية ومفصلة لجميع الجداول المتاحة.
+  <a href="https://eas.taibahu.edu.sa/TaibahReg/studentReplaceOptionalFreeCourses.do?ex=getCompSections" target="_blank">الجدول الزمني لمقررات الكلية</a>، (بعد قيامك بتسجيل الدخول) ستجد الصفحة قد تحولت إلى صفحة تفاعلية، قم بإدخال المواد التي ترغب بإضافتها، ثم اضغط زر "بحث" واحصل على قائمة تفاعلية ومفصلة لجميع الجداول المتاحة.
   </h3>
 
   <hr>
