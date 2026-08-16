@@ -1,8 +1,8 @@
 <div  dir="rtl">
   <h1>إضافة الجدول الزمني التفاعلي لمقررات جامعة طيبة</h1>
   <div align="center">
-    <img width="70%" height="70%" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/44e10ebe-d16b-44f8-bd25-6579784102a4" />
-    <img width="70%" height="70%" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/d4ce36ed-7b0b-4570-8926-b94070c0e639" />
+    <img width="100%" height="100%" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/44e10ebe-d16b-44f8-bd25-6579784102a4" />
+    <img width="100%" height="100%" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/d4ce36ed-7b0b-4570-8926-b94070c0e639" />
   </div>
   <h3>الميزات التي توفرها إضافة الجدول الزمني التفاعلي:</h3>
     <ul>
